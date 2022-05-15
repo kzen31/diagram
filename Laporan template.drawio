@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2022-05-15T12:06:11.953Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="030Jfp5H3-S1ARCfV3gH" version="18.0.4" type="github"><diagram id="pN3tOv0Hnyo84Ak2nDvD" name="Page-1">jZPBboMwDIafhuOkQlqW8yjrLjtMPfQcEZdECxiFtNA9/ZLiFFA1acqB+PttJ7ZDwopmPFjRqU+UYJJsI8eE7ZMsSzeM+08gt4nsUjaB2mpJTjM46h+IkUQvWkK/cnSIxuluDStsW6jciglrcVi7ndGsT+1EDU/gWAnzTE9aOkVVcDbzD9C1opN59joJjYi+VEivhMRhgViZsMIiumnXjAWY0LvYlinu/Q/1cS8LrftPwNe17FlVK37iUPNTjjuzfcmnLFdhLlQvXdbdYgMsXloJIckmYW+D0g6OnaiCOviRe6ZcY7yV+u0ZW0czTHmwtTEFGrT3XGyfh+V57yx+w1Ipw/LKc1lU6RWsg3GBqMwDYAPO3rxLVBm1nJ7clsxhnh+LTC1mx3KCgt5M/Ug999VvqLXRnEd41xb/ASt/AQ==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-15T12:10:50.593Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="z63PEonyT3G8JPAOECMQ" version="18.0.4" type="github">
+  <diagram id="pN3tOv0Hnyo84Ak2nDvD" name="Page-1">
+    <mxGraphModel dx="865" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QvEs3cgh8W8eg8W6o5l4-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#D6D6D6;strokeColor=#DEDEDE;" parent="1" vertex="1">
+          <mxGeometry x="140" y="40" width="340" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="yob8qpFeidn9qjvZkw3X-1" value="LOGO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="60" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yob8qpFeidn9qjvZkw3X-2" value="Kop Surat" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="60" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yob8qpFeidn9qjvZkw3X-6" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="120" as="sourcePoint" />
+            <mxPoint x="470" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yob8qpFeidn9qjvZkw3X-8" value="Text/Tabel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="226.25" y="130" width="167.5" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="yob8qpFeidn9qjvZkw3X-9" value="TTD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="393.75" y="290" width="60" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
