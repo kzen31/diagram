@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-04T12:34:50.664Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="kjOLcp-uGn8-_79QcMyO" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-04T12:35:58.749Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="tZNVrEUXy1J9PGvF67dD" version="20.2.3" type="github">
   <diagram id="pN3tOv0Hnyo84Ak2nDvD" name="Page-1">
     <mxGraphModel dx="4398" dy="881" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
@@ -770,10 +770,10 @@
           <mxGeometry x="-1545" y="110" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XFGnVmIvgDXaTXO8uA-s-177" value="Halaman tambah tanggal dan hasil sidang" style="text;strokeColor=none;fillColor=none;fontSize=12;fontStyle=1;verticalAlign=middle;align=center;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-1425" y="110" width="100" height="30" as="geometry" />
+          <mxGeometry x="-1425" y="120" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XFGnVmIvgDXaTXO8uA-s-178" value="Halaman ubah tanggal dan hasil sidang" style="text;strokeColor=none;fillColor=none;fontSize=12;fontStyle=1;verticalAlign=middle;align=center;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-1305" y="110" width="100" height="30" as="geometry" />
+          <mxGeometry x="-1305" y="120" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XFGnVmIvgDXaTXO8uA-s-179" value="Validasi" style="text;strokeColor=none;fillColor=none;fontSize=12;fontStyle=1;verticalAlign=middle;align=center;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-1185" y="110" width="100" height="30" as="geometry" />
@@ -877,16 +877,16 @@
             <mxPoint x="-1495.53" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XFGnVmIvgDXaTXO8uA-s-200" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontSize=12;fontColor=none;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="XFGnVmIvgDXaTXO8uA-s-200" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontSize=12;fontColor=none;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1375" y="290" as="sourcePoint" />
-            <mxPoint x="-1375" y="140" as="targetPoint" />
+            <mxPoint x="-1375" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XFGnVmIvgDXaTXO8uA-s-201" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontSize=12;fontColor=none;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="XFGnVmIvgDXaTXO8uA-s-201" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontSize=12;fontColor=none;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1255" y="430" as="sourcePoint" />
-            <mxPoint x="-1255" y="140" as="targetPoint" />
+            <mxPoint x="-1255" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XFGnVmIvgDXaTXO8uA-s-202" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontSize=12;fontColor=none;" edge="1" parent="1">
